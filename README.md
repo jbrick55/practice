@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <pre>
 \dfrac{4}{5}
 </pre>
+$$\dfrac{4}{5}$$
 
 ### Markdown
 
